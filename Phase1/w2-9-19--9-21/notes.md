@@ -5,7 +5,7 @@
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [9]/[12]
 
 #### 🗒️Notes from class:
 
